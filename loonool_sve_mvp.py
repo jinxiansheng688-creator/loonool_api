@@ -13,7 +13,7 @@ def np_convert(obj):
     raise TypeError
 import os
 from tqdm import tqdm
-import mediapipe as mp
+# import mediapipe as mp
 import exifread
 import matplotlib.pyplot as plt
 
