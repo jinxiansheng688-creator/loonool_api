@@ -6,3 +6,4 @@ scikit-image
 pillow
 scikit-learn
 tqdm
+mediapipe
