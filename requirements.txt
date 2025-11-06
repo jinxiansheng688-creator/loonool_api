@@ -4,5 +4,4 @@ opencv-python
 numpy
 scikit-image
 pillow
-mediapipe
 scikit-learn
